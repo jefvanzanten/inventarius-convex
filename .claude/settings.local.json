@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:hub.docker.com)",
+      "WebFetch(domain:docs.convex.dev)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:stack.convex.dev)",
+      "WebFetch(domain:www.bitdoze.com)",
+      "WebFetch(domain:v2.tauri.app)"
+    ]
+  }
+}
