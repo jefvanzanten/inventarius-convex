@@ -1,0 +1,13 @@
+{
+  "name": "inventarius-backend",
+  "version": "0.1.0",
+  "description": "Self-hosted Convex backend voor Inventarius",
+  "type": "module",
+  "scripts": {
+    "dev": "convex dev",
+    "deploy": "convex deploy"
+  },
+  "dependencies": {
+    "convex": "^1.17.0"
+  }
+}

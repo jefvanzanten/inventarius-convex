@@ -6,7 +6,8 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:stack.convex.dev)",
       "WebFetch(domain:www.bitdoze.com)",
-      "WebFetch(domain:v2.tauri.app)"
+      "WebFetch(domain:v2.tauri.app)",
+      "Bash(pnpm install)"
     ]
   }
 }
