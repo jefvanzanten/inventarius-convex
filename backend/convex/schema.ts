@@ -22,6 +22,7 @@ export default defineSchema({
     productId: v.id("products"),
     locationId: v.optional(v.id("locations")),
     amount: v.number(),
+    expirationDate: v.optional(v.string()),
   })
     .index("by_product", ["productId"])
     .index("by_location", ["locationId"])
